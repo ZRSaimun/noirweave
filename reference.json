@@ -1,0 +1,33 @@
+{
+  "title": "REGENT \u2014 The Obsidian Polo",
+  "creator": "Abhay Tiwari",
+  "source": "https://www.facebook.com/reel/1555579489398333",
+  "width": 480,
+  "height": 336,
+  "cols": 8,
+  "frames": 48,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "The film"
+    },
+    {
+      "progress": 0.25,
+      "label": "Deconstruction"
+    },
+    {
+      "progress": 0.52,
+      "label": "The weave"
+    },
+    {
+      "progress": 0.68,
+      "label": "The crest"
+    },
+    {
+      "progress": 0.86,
+      "label": "Reservation"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application."
+}
